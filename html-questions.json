@@ -1,0 +1,154 @@
+[
+  {
+    "title": "What does CSS stand for?",
+    "answer_1": "Cascading Style Sheets",
+    "answer_2": "Computer Style Sheets",
+    "answer_3": "Creative Style Sheets",
+    "answer_4": "Colorful Style Sheets",
+    "right_answer": "Cascading Style Sheets"
+  },
+  {
+    "title": "Which of the following is not a programming language?",
+    "answer_1": "Python",
+    "answer_2": "HTML",
+    "answer_3": "Java",
+    "answer_4": "C++",
+    "right_answer": "HTML"
+  },
+  {
+    "title": "What is the purpose of 'git clone' command?",
+    "answer_1": "To create a new repository",
+    "answer_2": "To delete a repository",
+    "answer_3": "To download a repository from a remote server",
+    "answer_4": "To merge branches in a repository",
+    "right_answer": "To download a repository from a remote server"
+  },
+  {
+    "title": "What does HTML stand for?",
+    "answer_1": "Hyperlinks and Text Markup Language",
+    "answer_2": "Hyper Text Markup Language",
+    "answer_3": "Home Tool Markup Language",
+    "answer_4": "Hyper Transfer Markup Language",
+    "right_answer": "Hyper Text Markup Language"
+  },
+  {
+    "title": "Which symbol is used for single-line comments in JavaScript?",
+    "answer_1": "//",
+    "answer_2": "/*",
+    "answer_3": "*/",
+    "answer_4": "#",
+    "right_answer": "//"
+  },
+  {
+    "title": "What is the output of 'typeof null' in JavaScript?",
+    "answer_1": "object",
+    "answer_2": "null",
+    "answer_3": "undefined",
+    "answer_4": "string",
+    "right_answer": "object"
+  },
+  {
+    "title": "What is the purpose of the 'this' keyword in JavaScript?",
+    "answer_1": "To refer to the current object",
+    "answer_2": "To refer to the parent object",
+    "answer_3": "To refer to the global object",
+    "answer_4": "To refer to the previous object",
+    "right_answer": "To refer to the current object"
+  },
+  {
+    "title": "What does the 'npm' command do in Node.js?",
+    "answer_1": "It installs packages from the npm registry",
+    "answer_2": "It runs the Node.js interpreter",
+    "answer_3": "It creates a new Node.js project",
+    "answer_4": "It updates Node.js to the latest version",
+    "right_answer": "It installs packages from the npm registry"
+  },
+  {
+    "title": "Which of the following is not a valid JavaScript variable name?",
+    "answer_1": "myVar",
+    "answer_2": "123Var",
+    "answer_3": "_var",
+    "answer_4": "$var",
+    "right_answer": "123Var"
+  },
+  {
+    "title": "What is the purpose of the 'border-radius' property in CSS?",
+    "answer_1": "To add a border to an element",
+    "answer_2": "To specify the curvature of an element's corners",
+    "answer_3": "To specify the thickness of an element's border",
+    "answer_4": "To specify the color of an element's border",
+    "right_answer": "To specify the curvature of an element's corners"
+  },
+  {
+    "title": "What is the result of 5 + '3' in JavaScript?",
+    "answer_1": "53",
+    "answer_2": "8",
+    "answer_3": "5",
+    "answer_4": "35",
+    "right_answer": "53"
+  },
+  {
+    "title": "What is the purpose of the 'git push' command?",
+    "answer_1": "To update the local repository",
+    "answer_2": "To upload changes to a remote repository",
+    "answer_3": "To create a new branch",
+    "answer_4": "To merge branches",
+    "right_answer": "To upload changes to a remote repository"
+  },
+  {
+    "title": "Which symbol is used to access the properties of an object in JavaScript?",
+    "answer_1": ".",
+    "answer_2": "-",
+    "answer_3": "_",
+    "answer_4": ":",
+    "right_answer": "."
+  },
+  {
+    "title": "What does the 'document.getElementById()' function do in JavaScript?",
+    "answer_1": "It gets the value of an element",
+    "answer_2": "It sets the value of an element",
+    "answer_3": "It gets an element by its ID",
+    "answer_4": "It sets an ID for an element",
+    "right_answer": "It gets an element by its ID"
+  },
+  {
+    "title": "What is the purpose of the 'localStorage' object in JavaScript?",
+    "answer_1": "To store data locally in the browser",
+    "answer_2": "To store data on the server",
+    "answer_3": "To store data in a database",
+    "answer_4": "To store data in memory",
+    "right_answer": "To store data locally in the browser"
+  },
+  {
+    "title": "Which of the following is not a valid CSS property for text styling?",
+    "answer_1": "font-size",
+    "answer_2": "text-color",
+    "answer_3": "text-align",
+    "answer_4": "line-height",
+    "right_answer": "text-color"
+  },
+  {
+    "title": "What is the purpose of the 'addEventListener()' method in JavaScript?",
+    "answer_1": "To remove an event listener",
+    "answer_2": "To add an event listener",
+    "answer_3": "To execute an event listener",
+    "answer_4": "To check if an event listener exists",
+    "right_answer": "To add an event listener"
+  },
+  {
+    "title": "What is the result of '5' - 3 in JavaScript?",
+    "answer_1": "2",
+    "answer_2": "53",
+    "answer_3": "8",
+    "answer_4": "5",
+    "right_answer": "2"
+  },
+  {
+    "title": "What is the purpose of the 'git pull' command?",
+    "answer_1": "To update the local repository",
+    "answer_2": "To upload changes to a remote repository",
+    "answer_3": "To create a new branch",
+    "answer_4": "To merge branches",
+    "right_answer": "To update the local"
+  }
+]
